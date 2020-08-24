@@ -1,0 +1,8 @@
+#filename,file_size,file_attributes,region_count,region_id,region_shape_attributes,region_attributes
+1.jpg,74250,"{}",1,0,"{""name"":""rect"",""x"":61,""y"":55,""width"":298,""height"":78}","{""object_name"":""forcestore""}"
+2.jpg,98835,"{}",1,0,"{""name"":""rect"",""x"":725,""y"":13,""width"":130,""height"":111}","{""object_name"":""acc""}"
+3.jpg,50346,"{}",1,0,"{""name"":""rect"",""x"":63,""y"":81,""width"":279,""height"":103}","{""object_name"":""acme1""}"
+4.jpg,61253,"{}",1,0,"{""name"":""rect"",""x"":71,""y"":78,""width"":323,""height"":141}","{""object_name"":""acme2""}"
+5.jpg,123266,"{}",1,0,"{""name"":""rect"",""x"":98,""y"":76,""width"":175,""height"":49}","{""object_name"":""sendgrid""}"
+6.jpg,85114,"{}",1,0,"{""name"":""rect"",""x"":461,""y"":99,""width"":163,""height"":73}","{""object_name"":""vcita""}"
+7.jpg,45129,"{}",1,0,"{""name"":""rect"",""x"":57,""y"":98,""width"":113,""height"":113}","{""object_name"":""zylker""}"
