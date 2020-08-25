@@ -227,3 +227,7 @@ Logotypes/augmented/7_8.jpg
 Logotypes/augmented/7_9.jpg
 Logotypes/snapshots/resnet50_csv_10.h5
 Logotypes/resnet50_coco_best_v2.1.0.h5
+Faces/.ipynb_checkpoints/faces-checkpoint.ipynb
+Faces/.ipynb_checkpoints/task_description-checkpoint.pdf
+Faces/.ipynb_checkpoints/train-checkpoint.csv
+*.jpg
